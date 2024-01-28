@@ -25,4 +25,9 @@
     - Portable : avaible on different platform and browser
     - Compact : Compact the code to reduce load
 
-5.    
+5. Mechanized specification provide a better formalization for the language : there is more accuracy. This is also more easy to identify potentials errors.
+
+The specification is verified with a proof language like Isabelle.
+
+The test is still important, the language is more accurate but need to be tested.
+
